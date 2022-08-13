@@ -28,7 +28,6 @@ nav div{
     font-size: 2rem;
     padding: 1rem;
     text-decoration: underline;
-    text-decoration-skip: 2px;
     text-decoration-color: var(--font);
 }
 
